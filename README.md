@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/AsinaMilic/AsinaMilic/main/banner.gif" alt="Fancy Banner" width="100%"/>
 </p>
 
-<h1 align="center">👋 Hello, I'm Dragan/Asina (however you want to call me) 😎</h1>
+<h1 align="center">👋 Hello, I'm Asina 😎</h1>
 <p align="center">
   <em>Data/AI Guy | Python • SQL • Big Data • Power BI • ML/AI • Math</em><br/>
 </p>
