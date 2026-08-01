@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/aleksamilic-dev/aleksamilic-dev/main/banner.gif" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Aleksa Milić</h1>
+<h1 align="center">👋 Hi, I'm Aleksa Milic</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Engineer+%7C+Azure+%E2%80%A2+Databricks+%E2%80%A2+Microsoft+Fabric;Turning+messy+data+into+working+systems;Open-source+contributor+%F0%9F%9A%80" alt="Typing SVG" />
@@ -23,7 +23,6 @@
 <p align="center">
 MSc graduate in Data Science with relevant certifications, focused on data engineering.<br/>
 I enjoy working with big data, bringing order to a mess, and automating complex systems across Azure, GCP, and AWS.<br/>
-Outside of work, I tinker with embedded hardware (Arduino, ESP32) and I'm exploring industrial IoT for manufacturing.<br/>
 I also like contributing to open-source and using software to create practical, positive impact 😄
 </p>
 
@@ -69,7 +68,6 @@ I also like contributing to open-source and using software to create practical, 
 <h2 align="center">🚀 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleksamilic-dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aleksamilic-dev&theme=tokyonight&date_format=%5BY%20%M%20%j%5D" alt="Streak Stats" />
 </p>
 
@@ -103,5 +101,5 @@ I also like contributing to open-source and using software to create practical, 
 </p>
 
 <p align="center">
-  <em>Thanks for stopping by – let's build something amazing together! ✨</em>
+  <em>Thanks for stopping by! ✨</em>
 </p>
